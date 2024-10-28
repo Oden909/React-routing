@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-routing/static/css/main.7fe57ae9.css",
+    "main.js": "/React-routing/static/js/main.ae29dbd8.js",
+    "static/media/loading.gif": "/React-routing/static/media/loading.42aaa181adb3af3bef08.gif",
+    "index.html": "/React-routing/index.html",
+    "main.7fe57ae9.css.map": "/React-routing/static/css/main.7fe57ae9.css.map",
+    "main.ae29dbd8.js.map": "/React-routing/static/js/main.ae29dbd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fe57ae9.css",
+    "static/js/main.ae29dbd8.js"
+  ]
+}
