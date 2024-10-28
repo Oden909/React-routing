@@ -21,6 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://oden909.github.io/React-routing",
   "eslintConfig": {
     "extends": [
       "react-app",
